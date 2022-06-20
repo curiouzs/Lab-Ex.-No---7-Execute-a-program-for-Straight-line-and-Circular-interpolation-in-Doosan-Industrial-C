@@ -43,4 +43,4 @@ Circular Interpolation
 ![12](https://user-images.githubusercontent.com/74660507/174606121-88446623-62de-4a8f-a844-83a673f0d56a.jpeg)
 
 ### Results 
-Thus,program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is executed
+Thus,program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is implemented successfully.
